@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrackingTarget</string>
+    <string name="action_load_first_image">加载第一张图</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_pyramid">PyramidActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+</resources>
